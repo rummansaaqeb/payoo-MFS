@@ -46,7 +46,7 @@ document.getElementById('btn-login')
         
         // bad way to validate
 
-        if(phoneNumber === '5' && pinNumber === '1234'){
+        if(phoneNumber === '01300453284' && pinNumber === '1234'){
             console.log('you are logged in');
             window.location.href = './home.html'
             
